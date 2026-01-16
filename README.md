@@ -4,7 +4,7 @@
 
 I created this interactive Swiggy Sales Dashboard to analyze business performance and gain actionable insights using Excel. The dashboard provides a complete view of key performance metrics, helping stakeholders understand growth trends, customer behavior, and business outcomes.
 
-#🔍 Key Highlights
+🔍 Key Highlights
 
 ✅ Total Revenue: ₹53M | Total Orders: 197K+
 
