@@ -1,6 +1,6 @@
 # Swiggy-Sales-Analytics
 
-#🚀 Swiggy Sales Analytics Dashboard – Excel Project
+🚀 Swiggy Sales Analytics Dashboard – Excel Project
 
 I created this interactive Swiggy Sales Dashboard to analyze business performance and gain actionable insights using Excel. The dashboard provides a complete view of key performance metrics, helping stakeholders understand growth trends, customer behavior, and business outcomes.
 
@@ -12,7 +12,7 @@ I created this interactive Swiggy Sales Dashboard to analyze business performanc
 
 ✅ Total Restaurants: 985 | Avg Rating: 4.34 ⭐
 
-#🎯 What I Gained
+🎯 What I Gained
 
  This project helped me improve my:
  
@@ -22,7 +22,7 @@ I created this interactive Swiggy Sales Dashboard to analyze business performanc
  
  • Data visualization & insight presentation
 
-#🛠 Tools & Techniques Used
+🛠 Tools & Techniques Used
 
 ✔ Microsoft Excel
 
