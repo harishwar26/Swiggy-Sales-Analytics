@@ -36,3 +36,5 @@ I created this interactive Swiggy Sales Dashboard to analyze business performanc
 
 
 This dashboard helps in data-driven decision making by identifying revenue drivers, city performance, customer trends, and sales patterns.
+
+![Dashboard Preview].(https://github.com/harishwar26/Swiggy-Sales-Analytics/blob/main/swiggy%20dashboard%20image.png)
